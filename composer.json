@@ -3,7 +3,8 @@
     "version": "1.0",
     "autoload": {
         "psr-4" : {
-            "Dirst\\OoPatterns\\DesignPrinciples\\ex1\\antipattern\\" : "src/design_principles/1/antipattern"
+            "Dirst\\OoPatterns\\DesignPrinciples\\strategy\\antipattern\\" : "src/design_principles/strategy/antipattern",
+            "Dirst\\OoPatterns\\DesignPrinciples\\strategy\\pattern\\" : "src/design_principles/strategy/pattern"
         }
     },
     "require": {

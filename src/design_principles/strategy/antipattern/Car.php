@@ -1,6 +1,6 @@
 <?php
 
-namespace Dirst\OoPatterns\DesignPrinciples\ex1\antipattern;
+namespace Dirst\OoPatterns\DesignPrinciples\strategy\antipattern;
 
 /**
  * Base class for all cars
