@@ -6,7 +6,10 @@
             "Dirst\\OoPatterns\\DesignPrinciples\\strategy\\antipattern\\" : "src/design_principles/strategy/antipattern",
             "Dirst\\OoPatterns\\DesignPrinciples\\strategy\\pattern\\" : "src/design_principles/strategy/pattern",
             "Dirst\\OoPatterns\\DesignPrinciples\\observer\\antipattern\\" : "src/design_principles/observer/antipattern",
-            "Dirst\\OoPatterns\\DesignPrinciples\\observer\\pattern\\" : "src/design_principles/observer/pattern"
+            "Dirst\\OoPatterns\\DesignPrinciples\\observer\\pattern\\" : "src/design_principles/observer/pattern",
+            "Dirst\\OoPatterns\\DesignPrinciples\\decorator\\antipattern\\" : "src/design_principles/decorator/antipattern",
+            "Dirst\\OoPatterns\\DesignPrinciples\\decorator\\pattern\\" : "src/design_principles/decorator/pattern"
+
         }
     },
     "require": {
