@@ -1,7 +1,7 @@
 ### DECORATOR
 Too cloudy theorethic definition. 
-Provides a way to have an extendable object - decorator, which can use other decorated objects to extend itself. 
-This objects can be used on it's own as well as within decoratora as decorated objects.
+Provides a way to have an extendable object(Decorated), which can use other objects(Decorated/Decorator) to extend itself. 
+This 1st object can be used on it's own as well as within decorators; 
 
 #### Example 
 In this example We have Geometric figures that can have additional states. 
